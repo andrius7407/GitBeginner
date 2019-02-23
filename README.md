@@ -1,4 +1,5 @@
-#GitBeginer 
+# GitBeginer            
+
 Learned commands:                                                       
 $ git --version   
 $ cd path/to/project  
