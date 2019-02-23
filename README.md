@@ -8,5 +8,6 @@ $ git add FileName.java   (add the file to the index)
 $ git rm --cached FileName.java (remove file from index)  
 $ git commit -m "comment"   
 $ git add *.java (add all the files with the extension .java)   
-$ git remote add origin [https://github.com/andrius7407/GitBeginner.git]
+$ git remote add origin https://github.com/andrius7407/GitBeginner.git (connect the local files to the repository)    
+
 
