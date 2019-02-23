@@ -1,4 +1,4 @@
-# GitBeginner            
+## GitBeginner            
 Learned commands:                                                       
 $ git --version   
 $ git config --global user.name "name"     
