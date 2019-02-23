@@ -2,7 +2,7 @@
 Learned commands:                                                       
 $ git --version   
 $ git config --global user.name "name"     
-$ git config --global user.email "email.address"
+$ git config --global user.email "email.address"  
 $ cd path/to/project  
 $ git init  (initialized empty Git repository)          
 $ git status    
