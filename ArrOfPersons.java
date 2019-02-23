@@ -30,6 +30,6 @@ public class ArrOfPersons {
 		}
 		String generatedString = buffer.toString();
 		return generatedString;
-		//System.out.println(generatedString);
+		
 	}
 }
