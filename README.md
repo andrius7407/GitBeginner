@@ -1,5 +1,5 @@
 Learned commands:                                                       
-$ git --version 
+$ git --version   
 $ cd path/to/project  
 $ git init  (initialized empty Git repository)
 
