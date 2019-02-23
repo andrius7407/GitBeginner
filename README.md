@@ -13,5 +13,8 @@ $ git add *.java (add all the files with the extension .java)
 $ git remote add origin https://github.com/andrius7407/GitBeginner.git (connect the local files to the repository)      
 $ git remote show origin (check the successful connection)    
 $ git push -u origin master   
-$ git checkout -b newbranch (create a new local branch and switch to it)
+$ git checkout -b newbranch (create a new local branch and switch to it)  
+$ git diff (check all the modifications)  
+$ git push -u origin newbranch  
+
 
