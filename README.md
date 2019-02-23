@@ -16,7 +16,8 @@ $ git push -u origin master
 $ git checkout -b newbranch (create a new local branch and switch to it)  
 $ git diff (check all the modifications)  
 $ git push -u origin newbranch    
-$ git config --list (view all the configuration list)     
+$ git config --list (view all the configuration list)       
+$ git clone remote-repository-url
 
 
 
